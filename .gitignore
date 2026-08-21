@@ -1,0 +1,10 @@
+# 生成的数据库（30 万订单约 42 MB，不提交）
+data/*.db
+data/*.db-journal
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+build/
